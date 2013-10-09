@@ -1,0 +1,5 @@
+[
+    { "caption": "Hyperion: Bookmark Empty", "command": "bookmark_empty" },
+    { "caption": "Hyperion: Bookmark Fuzzy", "command": "bookmark_fuzzy" },
+    { "caption": "Hyperion: Toggle Fuzzy", "command": "toggle_fuzzy" }
+]

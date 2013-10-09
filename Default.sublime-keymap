@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+alt+k"], "command": "next_bookmark" },
+	{ "keys": ["ctrl+alt+j"], "command": "prev_bookmark" },
+	{ "keys": ["ctrl+alt+f"], "command": "toggle_fuzzy" }
+]
