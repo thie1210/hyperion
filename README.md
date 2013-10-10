@@ -9,5 +9,5 @@ Sublime helpers for gettext portable object (.po) translation files.
 
 * Bookmark empty entries
 * Bookmark fuzzy entries
-* Toggle fuzzy entries (ctrl+alt+f)
+* Toggle fuzzy entries (`ctrl+alt+F`)
 
